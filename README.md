@@ -1,4 +1,4 @@
-# Event Sync Engine
+# RabbitMQ App
 
 RabbitMQ ile mesajlaşma yapan basit bir FastAPI uygulaması.
 
