@@ -1,5 +1,5 @@
 def main():
-    print("Hello from event-sync-engine!")
+    print("Hello from rabbitmq-example!")
 
 
 if __name__ == "__main__":

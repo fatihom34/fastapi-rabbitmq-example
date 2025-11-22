@@ -1,11 +1,12 @@
 [project]
-name = "event-sync-engine"
+name = "rabbitmq-example"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi>=0.121.2",
+    "pika>=1.3.2",
     "pydantic-settings>=2.0.0",
     "rabbitmq>=0.2.0",
     "redis>=7.0.1",
